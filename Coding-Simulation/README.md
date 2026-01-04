@@ -1,0 +1,1 @@
+Purpose: Simulates assigning codes to services — demonstrates rule-based classification logic.

@@ -1,0 +1,1 @@
+Purpose: Automates checking and summarizing structured data — demonstrates accuracy and analytical skills.

@@ -1,0 +1,1 @@
+Purpose: Checks for missing fields in patient data — simulates verifying medical records.
